@@ -2,7 +2,7 @@
 
 ## About Mini Aspire
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects
+Mini Aspire is a mini application in which user can opt for the loan amount for the entererd number of weeks. customer can pay weekly payment through REST Api.
 
 # Auth Installation
 
